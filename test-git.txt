@@ -1,6 +1,0 @@
-#new test for git
-
-dl test b1
-
-terminal test
-branch test 2 
