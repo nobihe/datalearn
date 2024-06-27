@@ -1,1 +1,11 @@
 # .gitignore test file
+
+example.log # ignoring a file
+
+example/ # ignoring directory 
+
+/example/ # ignoring the full path in workdin dir
+
+/example/*/.sqllite3 # ignoring all files with sqllite3 type in example dir
+
+/example/**/*.sqllite3 # ignoring all sqllite3 type files everywhere in example/.. and so on
