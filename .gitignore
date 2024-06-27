@@ -2,7 +2,7 @@
 
 example.log # ignoring a file
 
-example/ # ignoring directory 
+example/ # ignoring directory in any place in wd
 
 /example/ # ignoring the full path in workdin dir
 
